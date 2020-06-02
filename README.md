@@ -1,8 +1,19 @@
-# pyFluminus
-[![Coverage Status](https://coveralls.io/repos/github/raynoldng/pyfluminus/badge.svg?branch=master)](https://coveralls.io/github/raynoldng/pyfluminus?branch=master)
-Python port of the excellent [fluminus](https://github.com/indocomsoft/fluminus).
+# pyFluminus GUI
 
-CLI coming soon!
+This is a GUI which extends [pyFluminus](https://github.com/raynoldng/pyfluminus).
+
+The goal of this installer is to make it easy for windows users(who may not be familiar with CLI tools) to download their files easily.
+
+Here's an overview of what the UI looks like
+
+![gif](https://media.giphy.com/media/dxyTwmcUZDEJE0hSMl/giphy.gif)
+
+
+## Setup
+
+`virtualenv .env && source ./.env/bin/activate && pip install -r requirements.txt && python3 pyfluminus_gui.py`
+
+
 
 PRs are welcome
 
@@ -54,5 +65,4 @@ optional arguments:
 ```
 
 # Todos
-- [ ] upload to PyPi
-- [ ] (maybe?) GUI
+- [ ] Add a windows installer.
