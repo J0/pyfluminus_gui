@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=pyfluminus_gui
+Type=Application
+Exec=/opt/pyfluminus_gui/pyfluminus_gui
+Terminal=false
+NoDisplay=false
+Categories=Utility;
+Version=1.2
+Icon=pyfluminus_gui
