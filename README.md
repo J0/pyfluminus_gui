@@ -11,9 +11,9 @@ Here's an overview of what the UI looks like
 
 ## Setup
 
-`virtualenv .env && source ./.env/bin/activate && pip install -r requirements.txt && python3 pyfluminus_gui.py`
+Make sure to install the [latest Python version](https://www.python.org/downloads/release/python-385/)
 
-
+Execute the `setup.sh` script: `bash setup.sh`
 
 PRs are welcome
 
